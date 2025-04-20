@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="height: 400px;" src="./original-8410ddd85cabfc3943ecfbc1c9909ffd.gif" alt="Muhammad Abdullah Developer Banner" />
+  <img style="height: 400px;" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Muhammad Abdullah Developer Banner" />
 </p>
 
 # Hi 👋, I'm Muhammad Abdullah
@@ -29,7 +29,7 @@ I also have experience working with **WordPress**, **Bubble.io**, **embedded sys
 
 ## 💼 Work Highlights
 
-### 🔐 **Full Stack Developer @ Inotech / Cyber Command**
+### 🔐 **Full Stack Developer @ Inotech**
 
 - Developed and secured large-scale MERN apps integrated with cybersecurity standards
 - Implemented encrypted APIs, role-based access, and CI/CD workflows
