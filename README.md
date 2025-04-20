@@ -1,5 +1,5 @@
 <p align="center">
-<img style="height: 400px;" src="https://cdn.dribbble.com/userupload/16335869/file/original-8410ddd85cabfc3943ecfbc1c9909ffd.mp4" alt="Muhammad Abdullah Developer Banner" />
+  <img style="height: 400px;" src="./original-8410ddd85cabfc3943ecfbc1c9909ffd.gif" alt="Muhammad Abdullah Developer Banner" />
 </p>
 
 # Hi 👋, I'm Muhammad Abdullah
