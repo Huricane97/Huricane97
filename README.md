@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Muhammad Abdullah
 
-[![Linkedin: Muhammad](https://img.shields.io/badge/-Muhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)](https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Muhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)](https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)
 
 ### A Passionate Full-Stack Developer, Blockchain Engineer & AI Enthusiast 🚀
 
