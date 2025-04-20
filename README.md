@@ -1,12 +1,19 @@
+<!-- Developer Banner -->
 <p align="center">
   <img style="height: 400px;" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Muhammad Abdullah Developer Banner" />
 </p>
 
-# Hi 👋, I'm Muhammad Abdullah
+<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 
-[![Linkedin: Linkedin](https://img.shields.io/badge/-Muhammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)](https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/">
+    <img src="https://img.shields.io/badge/-Muhammad-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
 
-### A Passionate Full-Stack Developer, Blockchain Engineer & AI Enthusiast 🚀
+---
+
+### 🚀 A Passionate Full-Stack Developer, Blockchain Engineer & AI Enthusiast
 
 🔭 Currently building intelligent platforms with AI, blockchain, and full-stack web technologies  
 🌱 Learning & experimenting with **Next.js**, **NestJS**, **Angular**, and cloud-native development  
@@ -19,96 +26,86 @@
 
 I'm passionate about transforming complex ideas into powerful digital solutions. With a strong foundation in the **MERN stack**, **blockchain development**, and **AI integration**, I specialize in:
 
-- 🔗 **Building decentralized and scalable applications** using Ethereum, Polygon, and Hyperledger Fabric
-- ⚙️ Creating **robust APIs** and secure backend infrastructures with Express, Node.js, Prisma, and SQL/NoSQL
-- 🤖 Designing **AI-powered apps** with predictive intelligence, real-time analytics, and automation
+- 🔗 Building decentralized and scalable applications using Ethereum, Polygon, and Hyperledger Fabric
+- ⚙️ Creating robust APIs and secure backend infrastructures with Express, Node.js, Prisma, and SQL/NoSQL
+- 🤖 Designing AI-powered apps with predictive intelligence, real-time analytics, and automation
 - 🧱 Delivering MVPs, SaaS products, and CRMs that align innovation with real-world business goals
-- 🛠 Working across teams, leading projects, and mentoring junior developers
+- 🛠 Leading projects, collaborating across teams, and mentoring junior devs
 
-I also have experience working with **WordPress**, **Bubble.io**, **embedded systems**, and **enterprise-grade cybersecurity practices**.
+Also experienced with **WordPress**, **Bubble.io**, **embedded systems**, and **enterprise-grade cybersecurity**.
 
 ---
 
 ## 💼 Work Highlights
 
-### 🔐 **Full Stack Developer @ Inotech**
+- 🔐 **Full Stack Developer @ Inotech**  
+  MERN-based secure apps, RBAC, encrypted APIs, CI/CD
 
-- Developed and secured large-scale MERN apps integrated with cybersecurity standards
-- Implemented encrypted APIs, role-based access, and CI/CD workflows
+- 🌐 **Blockchain Developer @ PRODDS**  
+  Web3 dApps with Ethereum/Polygon, smart contracts, CI/CD
 
-### 🌐 **Full Stack Blockchain Developer @ PRODDS**
+- 🧩 **Frontend Dev @ Arden Labs**  
+  Next.js & Tailwind, SEO, accessibility, Web3 UI integration
 
-- Delivered token-based Web3 solutions with Ethereum, BSC, Polygon
-- Led frontend architecture in React, TypeScript, and Redux
-- Handled CI/CD, testing, and project leadership
+- 🖥️ **Frontend Dev @ Arthur Lawrence**  
+  Angular enterprise app dev with REST APIs
 
-### 🧩 **Blockchain Frontend Dev @ Arden Labs**
+- 🏛️ **Web Dev @ NITB (Govt Projects)**  
+  Contributed to high-impact gov portals like PM Youth & SIFC
 
-- Architected scalable UIs with Next.js and Tailwind
-- Optimized frontend SEO, accessibility, and Web3 integrations
-
-### 🖥️ **Frontend Developer @ Arthur Lawrence**
-
-- Angular-based enterprise app development and RESTful API integrations
-
-### 🏛️ **Web Developer @ NITB (Govt Projects)**
-
-- Contributed to SIFC, Federal Judicial Academy, National Police Bureau, and PM Youth Program apps
-- Developed government-compliant secure APIs and responsive UIs
-
-### 🧠 **Embedded Systems Engineer @ Barqi Labs**
-
-- Built smart devices using ML & computer vision on edge systems
+- 🤖 **Embedded Systems Engineer @ Barqi Labs**  
+  ML & computer vision-based smart devices
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-**Languages & Frameworks:**  
-`React.js`, `Node.js`, `Express.js`, `Prisma`, `Next.js`, `NestJS`, `Angular`, `Python`, `TypeScript`, `Solidity`, `Ethers.js`
-
-**Blockchain:**  
-`Ethereum`, `BSC`, `Polygon`, `Hyperledger Fabric`, `NFT Development`, `dApps`, `DeFi`, `DAOs`
-
-**Databases:**  
-`MongoDB`, `PostgreSQL`, `MySQL`, `SQLite`
-
-**Tools & Platforms:**  
-`Git`, `Docker`, `CI/CD`, `Figma`, `Linux`, `VS Code`, `AWS`, `Bubble.io`, `WordPress`, `REST`, `WebSocket`, `OpenAI API`
-
-**Other Interests:**  
-`AI`, `ML`, `NLP`, `Computer Vision`, `Secure Systems`, `Cybersecurity`, `Image Processing`, `IoT`
+```text
+Frontend     ▸ React · Next.js · Angular · Tailwind · WordPress · Bubble.io
+Backend      ▸ Node.js · Express · NestJS · Prisma · RESTful APIs · JWT
+Blockchain   ▸ Solidity · Ethereum · Polygon · BSC · Hyperledger Fabric
+AI / Python  ▸ OpenAI · NLP · Vision · Automation · Flask · Jupyter
+Databases    ▸ PostgreSQL · MongoDB · MySQL · SQLite
+Dev Tools    ▸ Git · Docker · CI/CD · Linux · VS Code · Figma · Postman · AWS
+```
 
 ---
 
 ## 🧪 Featured Projects
 
-### 🚀 Web3 & Blockchain
+### 🚀 Blockchain & Web3
 
-- Smart contract development and deployment (EVM)
-- NFT marketplaces and token ecosystems
-- Hyperledger-based permissioned networks
+- dApps, NFTs, DAOs on Ethereum/Polygon
+- Permissioned ledgers with Hyperledger Fabric
 
-### 🤖 AI & Automation
+### 🤖 AI & ML
 
-- AI dashboards with natural language input
-- GPT-integrated CRMs
-- AI-enhanced analytics platforms
+- GPT-based assistants
+- AI-powered CRMs and automation dashboards
 
-### ⚙️ DevOps & Architecture
+### ⚙️ Backend Architecture
 
-- RESTful API design with Prisma + PostgreSQL
-- Auth systems with JWT, 2FA, and role-based permissions
-- Scalable microservices & Docker deployments
+- Scalable REST APIs with Prisma/PostgreSQL
+- Auth systems (JWT, 2FA, RBAC)
+- Microservices with Docker & CI/CD
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Huricane97&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
+
+---
+
+## 🐍 Contribution Graph Snake
+
+![snake gif](https://github.com/Huricane97/Huricane97/blob/output/github-contribution-grid-snake.svg)
+
+> 🔥 Auto-generated contribution animation (GitHub Snake)
 
 ---
 
