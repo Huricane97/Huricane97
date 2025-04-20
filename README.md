@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./original-8410ddd85cabfc3943ecfbc1c9909ffd.gif" alt="Muhammad Abdullah Developer Banner" />
+</p>
+
 # Hi 👋, I'm Muhammad Abdullah
 
 ### A Passionate Full-Stack Developer, Blockchain Engineer & AI Enthusiast 🚀
