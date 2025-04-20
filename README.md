@@ -103,14 +103,6 @@ Dev Tools    ▸ Git · Docker · CI/CD · Linux · VS Code · Figma · Postman 
 
 ---
 
-## 🐍 Contribution Graph Snake
-
-![snake gif](https://github.com/Huricane97/Huricane97/blob/output/github-contribution-grid-snake.svg)
-
-> 🔥 Auto-generated contribution animation (GitHub Snake)
-
----
-
 ## 🔗 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Huricane97-black?style=flat&logo=github)](https://github.com/Huricane97)  
