@@ -1,69 +1,118 @@
 # Hi 👋, I'm Muhammad Abdullah
 
-### A passionate Full-Stack Developer & Emerging Tech Explorer 🚀
+### A Passionate Full-Stack Developer, Blockchain Engineer & AI Enthusiast 🚀
 
-🔭 I'm currently building AI-integrated platforms and exploring blockchain scalability  
-🌱 Currently learning **Next.js**, **NestJS**, and **Angular**  
-💬 Ask me about **React**, **Node.js**, **Prisma**, **Python**, **EVM Blockchains**, and **AI apps**  
-📫 Reach me at: **ab97here@gmail.com**
+🔭 Currently building intelligent platforms with AI, blockchain, and full-stack web technologies  
+🌱 Learning & experimenting with **Next.js**, **NestJS**, **Angular**, and cloud-native development  
+💬 Ask me about **React**, **Node.js**, **Prisma**, **Python**, **EVM Blockchains**, and **AI-based applications**  
+📫 Email me at: **ab97here@gmail.com**
+
+---
 
 ## 🧠 About Me
 
-- 🧑‍💻 I specialize in **modern web stacks**: React + Node + Prisma + MongoDB/SQL
-- 🧱 Working with **EVM blockchains** and **Hyperledger Fabric** for enterprise-grade solutions
-- 🧪 Building **AI-based applications** and integrating intelligent automation into products
-- 🌐 I also work with **WordPress**, **Bubble.io**, and rapid prototyping tools
-- 🧬 Keen on backend performance, database design, and secure API development
+I'm passionate about transforming complex ideas into powerful digital solutions. With a strong foundation in the **MERN stack**, **blockchain development**, and **AI integration**, I specialize in:
+
+- 🔗 **Building decentralized and scalable applications** using Ethereum, Polygon, and Hyperledger Fabric
+- ⚙️ Creating **robust APIs** and secure backend infrastructures with Express, Node.js, Prisma, and SQL/NoSQL
+- 🤖 Designing **AI-powered apps** with predictive intelligence, real-time analytics, and automation
+- 🧱 Delivering MVPs, SaaS products, and CRMs that align innovation with real-world business goals
+- 🛠 Working across teams, leading projects, and mentoring junior developers
+
+I also have experience working with **WordPress**, **Bubble.io**, **embedded systems**, and **enterprise-grade cybersecurity practices**.
+
+---
+
+## 💼 Work Highlights
+
+### 🔐 **Full Stack Developer @ Inotech / Cyber Command**
+
+- Developed and secured large-scale MERN apps integrated with cybersecurity standards
+- Implemented encrypted APIs, role-based access, and CI/CD workflows
+
+### 🌐 **Full Stack Blockchain Developer @ PRODDS**
+
+- Delivered token-based Web3 solutions with Ethereum, BSC, Polygon
+- Led frontend architecture in React, TypeScript, and Redux
+- Handled CI/CD, testing, and project leadership
+
+### 🧩 **Blockchain Frontend Dev @ Arden Labs**
+
+- Architected scalable UIs with Next.js and Tailwind
+- Optimized frontend SEO, accessibility, and Web3 integrations
+
+### 🖥️ **Frontend Developer @ Arthur Lawrence**
+
+- Angular-based enterprise app development and RESTful API integrations
+
+### 🏛️ **Web Developer @ NITB (Govt Projects)**
+
+- Contributed to SIFC, Federal Judicial Academy, National Police Bureau, and PM Youth Program apps
+- Developed government-compliant secure APIs and responsive UIs
+
+### 🧠 **Embedded Systems Engineer @ Barqi Labs**
+
+- Built smart devices using ML & computer vision on edge systems
+
+---
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI-FF6B00?style=flat&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-</p>
+**Languages & Frameworks:**  
+`React.js`, `Node.js`, `Express.js`, `Prisma`, `Next.js`, `NestJS`, `Angular`, `Python`, `TypeScript`, `Solidity`, `Ethers.js`
 
-## 📌 Featured Projects & Interests
+**Blockchain:**  
+`Ethereum`, `BSC`, `Polygon`, `Hyperledger Fabric`, `NFT Development`, `dApps`, `DeFi`, `DAOs`
 
-### 🤖 AI-Driven Apps
+**Databases:**  
+`MongoDB`, `PostgreSQL`, `MySQL`, `SQLite`
 
-- GPT-integrated workflow assistants
-- Custom AI chatbots for business automation
-- Data-driven dashboards with predictive insights
+**Tools & Platforms:**  
+`Git`, `Docker`, `CI/CD`, `Figma`, `Linux`, `VS Code`, `AWS`, `Bubble.io`, `WordPress`, `REST`, `WebSocket`, `OpenAI API`
 
-### 🌐 Blockchain & Web3
+**Other Interests:**  
+`AI`, `ML`, `NLP`, `Computer Vision`, `Secure Systems`, `Cybersecurity`, `Image Processing`, `IoT`
 
-- Smart contract development on EVM
-- Permissioned DLTs using Hyperledger Fabric
-- Token & Wallet integration into dApps
+---
 
-### ⚡ Backend Architectures
+## 🧪 Featured Projects
 
-- Modular APIs using Express, Prisma
-- PostgreSQL + Mongo hybrid stack setups
-- Auth systems, role-based access, and logging
+### 🚀 Web3 & Blockchain
+
+- Smart contract development and deployment (EVM)
+- NFT marketplaces and token ecosystems
+- Hyperledger-based permissioned networks
+
+### 🤖 AI & Automation
+
+- AI dashboards with natural language input
+- GPT-integrated CRMs
+- AI-enhanced analytics platforms
+
+### ⚙️ DevOps & Architecture
+
+- RESTful API design with Prisma + PostgreSQL
+- Auth systems with JWT, 2FA, and role-based permissions
+- Scalable microservices & Docker deployments
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" />
 </p>
 
-## 🔗 Connect with Me
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Huricane97-black?style=flat&logo=github)](https://github.com/Huricane97)
-[![Email](https://img.shields.io/badge/Email-ab97here@gmail.com-red?style=flat&logo=gmail)](mailto:ab97here@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Hurricane__971-7289DA?style=flat&logo=discord)](https://discord.com)
+## 🔗 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Huricane97-black?style=flat&logo=github)](https://github.com/Huricane97)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/)  
+[![Email](https://img.shields.io/badge/Email-ab97here@gmail.com-red?style=flat&logo=gmail)](mailto:ab97here@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@Hurricane97-blue?style=flat&logo=telegram)](https://t.me/Hurricane97)
 
-### 🚀 Let's build the future — one commit at a time.
+---
+
+### 🧠 “Tech isn't just tools — it's a canvas for innovation.”
