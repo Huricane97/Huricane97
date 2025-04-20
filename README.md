@@ -94,11 +94,11 @@ Dev Tools    ▸ Git · Docker · CI/CD · Linux · VS Code · Figma · Postman 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=Huricane97&show_icons=true&theme=tokyonight" alt="Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Huricane97&theme=tokyonight" alt="Streak" />
+  <img style="width:100%" src="https://github-readme-streak-stats.herokuapp.com?user=Huricane97&theme=tokyonight" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" alt="Languages" />
+  <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huricane97&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 ---
