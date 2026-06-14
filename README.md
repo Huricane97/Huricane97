@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/blockchain-wordpress-nfts-expert/">
+  <a href="https://www.linkedin.com/in/fullstack-blockchain-developer-wordpress/">
     <img src="https://img.shields.io/badge/-Muhammad-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 </p>
